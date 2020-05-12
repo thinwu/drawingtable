@@ -1,0 +1,8 @@
+
+**.log
+obj/
+.vs/
+Temp/
+Packages/
+Library/
+**_Data/
